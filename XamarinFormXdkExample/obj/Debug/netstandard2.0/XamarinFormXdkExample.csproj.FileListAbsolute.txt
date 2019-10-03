@@ -1,0 +1,12 @@
+/Users/molpaymobile/Documents/Hisyam/XamarinFormXdkExample/XamarinFormXdkExample/bin/Debug/netstandard2.0/XamarinFormXdkExample.deps.json
+/Users/molpaymobile/Documents/Hisyam/XamarinFormXdkExample/XamarinFormXdkExample/bin/Debug/netstandard2.0/XamarinFormXdkExample.dll
+/Users/molpaymobile/Documents/Hisyam/XamarinFormXdkExample/XamarinFormXdkExample/bin/Debug/netstandard2.0/ref/XamarinFormXdkExample.dll
+/Users/molpaymobile/Documents/Hisyam/XamarinFormXdkExample/XamarinFormXdkExample/bin/Debug/netstandard2.0/XamarinFormXdkExample.pdb
+/Users/molpaymobile/Documents/Hisyam/XamarinFormXdkExample/XamarinFormXdkExample/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/molpaymobile/Documents/Hisyam/XamarinFormXdkExample/XamarinFormXdkExample/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/molpaymobile/Documents/Hisyam/XamarinFormXdkExample/XamarinFormXdkExample/obj/Debug/netstandard2.0/XamarinFormXdkExample.AssemblyInfoInputs.cache
+/Users/molpaymobile/Documents/Hisyam/XamarinFormXdkExample/XamarinFormXdkExample/obj/Debug/netstandard2.0/XamarinFormXdkExample.AssemblyInfo.cs
+/Users/molpaymobile/Documents/Hisyam/XamarinFormXdkExample/XamarinFormXdkExample/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/molpaymobile/Documents/Hisyam/XamarinFormXdkExample/XamarinFormXdkExample/obj/Debug/netstandard2.0/XamarinFormXdkExample.dll
+/Users/molpaymobile/Documents/Hisyam/XamarinFormXdkExample/XamarinFormXdkExample/obj/Debug/netstandard2.0/ref/XamarinFormXdkExample.dll
+/Users/molpaymobile/Documents/Hisyam/XamarinFormXdkExample/XamarinFormXdkExample/obj/Debug/netstandard2.0/XamarinFormXdkExample.pdb

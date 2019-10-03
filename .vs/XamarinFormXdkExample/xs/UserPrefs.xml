@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{6FCE105E-825E-4506-9450-2B4B94ADC336}|Default">
+  <MonoDevelop.Ide.ItemProperties.XamarinFormXdkExample.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.5EEE13A1-2822-4D2C-B998-7ABA1CADC520" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinFormXdkExample/MainPage.xaml.cs">
+    <Files>
+      <File FileName="XamarinFormXdkExample/MainPage.xaml" Line="3" Column="1" />
+      <File FileName="XamarinFormXdkExample/MainPage.xaml.cs" Line="9" Column="32" />
+      <File FileName="XamarinFormXdkExample/MOLPayXDK.cs" />
+      <File FileName="XamarinFormXdkExample.Android/MOLPayExtensionForAndroid.cs" />
+      <File FileName="XamarinFormXdkExample/App.xaml.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XamarinFormXdkExample" expanded="True" selected="True">
+            <Node name="XamarinFormXdkExample" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+            <Node name="XamarinFormXdkExample.Android" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.XamarinFormXdkExample.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
